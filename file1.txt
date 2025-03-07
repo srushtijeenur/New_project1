@@ -1,2 +1,3 @@
 This is new repo,
 created on local host directly
+and push from the local host to remote host 
